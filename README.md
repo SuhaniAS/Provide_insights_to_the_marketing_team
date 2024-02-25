@@ -1,5 +1,5 @@
 # Provide_insights_to_the_marketing_team
-Codebasics website is providing agreat oppertunity to deal with hands-on projects. And from the codebasics resume project, I have choosen challenge #6.
+Codebasics website is providing a great oppertunity to deal with hands-on projects. And from the codebasics resume project, I have choosen challenge #6.
 #
 ### The task here is to provide insights to the marketing team. In other words, to provide the following recommendations:
 1.) What immediate improvements can we bring to the product?
