@@ -29,7 +29,12 @@ They conducted a survey in those 10 cities and received results from 10k respond
 
 ### I have shared the survey questions here: https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/Survey_Questions_and_Response_Options.pdf
 
-I have uploded the responce data here:
+I have uploded the responce data here: 
+
+https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/dim_repondents.csv
+
+
+
 #
 Before analysing the 
 
