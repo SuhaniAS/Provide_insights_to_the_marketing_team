@@ -23,7 +23,8 @@ A few months ago, they launched their energy drink in 10 cities in India
 ![Screenshot 2024-02-25 221247](https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/assets/137792301/39dc5d9c-f53f-4ca7-b7c3-9dc8981e2ee6)
 
 Their Marketing team is responsible for increasing brand awareness, market share, and product development.
-
+#
+## The data
 They conducted a survey in those 10 cities and received results from 10k respondents.
 
 ### I have shared the survey questions here: 
@@ -37,16 +38,16 @@ https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/fac
 
 If you are unable to go throught the data, alternative link is provided: 
 https://www.kaggle.com/datasets/suhanias/marketing-dataset
-
 #
-Before analysing the data, we will have to make sure that the data is adequate and the cleaning (i.e., data cleaning) is not required.
+## Analysis
+Before analysing the data, we will have to make sure that the data is adequate and the cleaning (i.e., data cleaning) is to be done(if required).
 I have done the above analysis part in __Python (Jupyter Notebook)__.
 
 https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/Survey.ipynb
 
 Thus, data cleaning is not required as the data has no empty cells.
-#
-Now let us analyse the data provide and answer the following questions.
+
+Now let us analyse the data provided and answer the following questions.
 
 https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/Primary_Secondary_Insights.pdf
 
