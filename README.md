@@ -1,9 +1,7 @@
 # Provide_insights_to_the_marketing_team
 Codebasics website is providing agreat oppertunity to deal with hands-on projects. And from the codebasics resume project, I have choosen challenge #6.
-The task here is to provide insights to the marketing team. 
-
-### In other words, to provide the following recommendations:
- 
+#
+### The task here is to provide insights to the marketing team. In other words, to provide the following recommendations:
 1.) What immediate improvements can we bring to the product?
 
 2.) What should be the ideal price of our product?
@@ -13,8 +11,9 @@ The task here is to provide insights to the marketing team.
 4.) Who can be a brand ambassador, and why?
 
 5.) Who should be our target audience, and why?
-
+#
 Before diving into the task, let us know about the company.
+
 ## Introduction
 ### The company name is CodeX.
 It is a German beverage company that is aiming to make its mark in the Indian market. 
@@ -33,8 +32,11 @@ I have uploded the responce data here:
 
 https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/dim_repondents.csv
 
+https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/fact_survey_responses.csv
 
+If you are unable to go throught the data, alternative link is provided: 
+https://www.kaggle.com/datasets/suhanias/marketing-dataset
 
 #
-Before analysing the 
-
+Before analysing the data, we will have to make sure that the data is adequate and the cleaning (i.e., data cleaning) is not required.
+I have done the above analysis part in ## Python (Jupyter Notebook)
