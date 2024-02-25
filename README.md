@@ -39,4 +39,4 @@ https://www.kaggle.com/datasets/suhanias/marketing-dataset
 
 #
 Before analysing the data, we will have to make sure that the data is adequate and the cleaning (i.e., data cleaning) is not required.
-I have done the above analysis part in ## Python (Jupyter Notebook)
+I have done the above analysis part in __Python (Jupyter Notebook)__.
