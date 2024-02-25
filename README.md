@@ -47,3 +47,6 @@ Thus, data cleaning is not required as the data has no empty cells.
 #
 Now let us analyse the data provide and answer the following questions.
 
+https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/blob/main/Primary_Secondary_Insights.pdf
+
+
