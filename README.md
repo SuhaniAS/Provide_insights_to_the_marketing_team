@@ -1,5 +1,5 @@
 # Provide_insights_to_the_marketing_team
-![image](https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/assets/137792301/55b782fa-8c03-40a7-9bc8-d4b0a9e5d2a5)
+![image](https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/assets/137792301/35cc1d03-3297-48e6-8c5b-4090bcf5e496)
 
 ### The task here is to provide insights to the marketing team. In other words, to provide the following recommendations:
 1.) What immediate improvements can we bring to the product?
