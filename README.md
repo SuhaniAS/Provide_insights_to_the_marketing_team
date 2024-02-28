@@ -8,9 +8,7 @@
 
 3.) What kind of marketing campaigns, offers, and discounts we can run?
 
-4.) Who can be a brand ambassador, and why?
-
-5.) Who should be our target audience, and why?
+4.) Who should be our target audience, and why?
 #
 Before diving into the task, let us know about the company.
 
