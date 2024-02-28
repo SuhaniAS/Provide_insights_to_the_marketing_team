@@ -1,5 +1,4 @@
 # Provide_insights_to_the_marketing_team
-### Codebasics website is providing a great opportunity to deal with hands-on projects. And from the codebasics resume project, I have choosen challenge #6: Provide insights to the marketing team.
 ![image](https://github.com/SuhaniAS/Provide_insights_to_the_marketing_team/assets/137792301/55b782fa-8c03-40a7-9bc8-d4b0a9e5d2a5)
 
 ### The task here is to provide insights to the marketing team. In other words, to provide the following recommendations:
